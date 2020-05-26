@@ -1,2 +1,2 @@
 # CodingInterView
-https://iamyogesh21.github.io/CodingInterView/ds.html
+https://iamyogesh21.github.io/CodingInterView/
