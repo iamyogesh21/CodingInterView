@@ -1,2 +1,2 @@
 # CodingInterView preparation
-<a href="https://iamyogesh21.github.io/CodingInterView/">Click here</a>
+<a href="https://yogesh2104.github.io/CodingInterView/">Click here</a>
